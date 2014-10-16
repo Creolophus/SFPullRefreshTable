@@ -1,3 +1,3 @@
-pulling to refresh,
+Pulling to refresh
 ==================
-easy to use, support pulling down refresh, pulling up load more, pulling down load more
+easy to use, support pulling down load more, pulling up load more, pulling down refresh
