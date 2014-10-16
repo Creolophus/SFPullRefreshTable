@@ -1,4 +1,3 @@
-SFPullRefreshTable
+pulling to refresh,
 ==================
-
-pull down refresh, pull up load more, pull down load more
+easy to use, support pulling down refresh, pulling up load more, pulling down load more
